@@ -86,7 +86,7 @@
 </p>
 
 ---
-
+```
 ## 🚀 Featured Projects
 
 ### 🔹 Asha AI Chatbot
@@ -100,7 +100,7 @@
 
 ### 🔹 Financial Empowerment App
 > AI-driven finance and investment learning platform focused on women empowerment.
-
+```
 ---
 
 ## 🏆 Achievements & Activities
