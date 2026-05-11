@@ -86,21 +86,7 @@
 </p>
 
 ---
-```
-## 🚀 Featured Projects
 
-### 🔹 Asha AI Chatbot
-> AI-powered chatbot designed for women career guidance using **RAG, semantic search, and LLMs**.
-
-### 🔹 FIR-Sahayak
-> Smart AI system focused on simplifying FIR-related guidance and support.
-
-### 🔹 Marathi Colloquial AI Model
-> Fine-tuning multilingual AI models to understand and generate colloquial Marathi.
-
-### 🔹 Financial Empowerment App
-> AI-driven finance and investment learning platform focused on women empowerment.
-```
 ---
 
 ## 🏆 Achievements & Activities
