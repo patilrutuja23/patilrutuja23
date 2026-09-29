@@ -55,19 +55,19 @@
 ### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript" />
 </p>
 
 ### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vue" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,dotnet" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
 </p>
 
 ### 🤖 AI/ML & Data Science
